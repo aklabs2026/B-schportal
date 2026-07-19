@@ -8,3 +8,4 @@ coverage/
 !.env.example
 deploy.bat 
 deploy.bat 
+deploy.bat 
