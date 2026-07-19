@@ -1,0 +1,6 @@
+{
+  "name": "Placement Prep Portal",
+  "description": "AI-Powered Placement Preparation Portal with student login, progress dashboards, resume parsing, AI mock interviews, and coding challenge trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
